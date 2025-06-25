@@ -169,3 +169,13 @@ window_padding_width 5
 ```
 
 ---
+
+<div align="center">
+
+**⚡ Transforme seu Linux em uma máquina de produtividade! ⚡**
+
+[![Feito com ❤️](https://img.shields.io/badge/Feito%20com-❤️-red.svg)]()
+[![CachyOS](https://img.shields.io/badge/CachyOS-Linux-blue.svg)](https://cachyos.org)
+[![GNOME](https://img.shields.io/badge/GNOME-Desktop-orange.svg)](https://www.gnome.org)
+
+</div>

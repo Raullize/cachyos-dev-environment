@@ -168,7 +168,16 @@ map ctrl+shift+enter new_window
 # Terminal border colors
 background_opacity 0.75
 window_padding_width 5
-
 ```
 
 ---
+
+<div align="center">
+
+**⚡ Transform your Linux into a productivity powerhouse! ⚡**
+
+[![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red.svg)]()
+[![CachyOS](https://img.shields.io/badge/CachyOS-Linux-blue.svg)](https://cachyos.org)
+[![GNOME](https://img.shields.io/badge/GNOME-Desktop-orange.svg)](https://www.gnome.org)
+
+</div>
