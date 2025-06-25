@@ -1,6 +1,6 @@
 # 💻 Minha Configuração CachyOS Linux
 
-[![pt-br](https://img.shields.io/badge/lang-pt--br-red.svg)](./README.pt-br.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](./README.md)
 
 Bem-vindo ao meu repositório pessoal de configurações para o **CachyOS**, uma distribuição Linux poderosa e otimizada baseada no Arch. Este repositório contém minhas configurações personalizadas, ferramentas e dicas para transformar seu ambiente Linux em uma máquina de produtividade.
 
