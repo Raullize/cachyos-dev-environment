@@ -4,6 +4,8 @@
 
 Bem-vindo ao meu repositório pessoal de configurações para o **CachyOS**, uma distribuição Linux poderosa e otimizada baseada no Arch. Este repositório contém minhas configurações personalizadas, ferramentas e dicas para transformar seu ambiente Linux em uma máquina de produtividade.
 
+<img src="assets/cachyos.png" alt="CachyOS Icon" width="200">
+
 ---
 
 ## 🧠 Sobre o CachyOS
