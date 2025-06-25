@@ -49,6 +49,10 @@ To customize my GNOME environment, I use **Extension Manager** with the followin
 
 > 💡 **Tip**: Install Extension Manager via Flatpak or pacman to easily manage these extensions.
 
+<div align="center">
+  <img src="assets/gnome.gif" alt="GNOME Desktop with Extensions" width="600">
+</div>
+
 ---
 
 ## 📥 How to Install CachyOS (Recommended with Ventoy)
@@ -134,6 +138,10 @@ I use `kitty` as my terminal with:
 * Theme: `Dracula`
 * Transparency and keybindings
 
+<div align="center">
+  <img src="assets/kitty.gif" alt="Kitty Terminal with Dracula Theme" width="600">
+</div>
+
 To configure it:
 
 ```bash
@@ -168,13 +176,6 @@ window_padding_width 5
 ## 📌 To-Do / Future Additions
 
 * [ ] Optional install script to auto-setup all configs
-* [ ] Screenshots and video previews
-
----
-
-## 📸 Screenshots
-
-*(Screenshots: VS Code, GNOME Desktop, Kitty Terminal, etc)*
 
 ---
 

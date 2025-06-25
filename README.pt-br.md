@@ -49,6 +49,10 @@ Para customizar meu ambiente GNOME, uso o **Extension Manager** com as seguintes
 
 > 💡 **Dica**: Instale o Extension Manager via Flatpak ou pacman para gerenciar facilmente essas extensões.
 
+<div align="center">
+  <img src="assets/gnome.gif" alt="GNOME Desktop com Extensões" width="600">
+</div>
+
 ---
 
 ## 📥 Como Instalar o CachyOS (Recomendado com Ventoy)
@@ -77,6 +81,10 @@ Para customizar meu ambiente GNOME, uso o **Extension Manager** com as seguintes
 Além do instalador padrão, uso uma interface personalizada do Ventoy com o tema [Grub-theme-vimix](https://www.gnome-look.org/p/1009236), deixando o menu de boot mais bonito e moderno.
 
 Existem várias formas de aplicar essa personalização, mas segui o tutorial deste vídeo: [YouTube - Como personalizar o Ventoy com tema Vimix](https://www.youtube.com/watch?v=CuonyS3xdwg).
+
+<div align="center">
+  <img src="assets/ventoy-grub-theme-vimix.jpg" alt="Ventoy Grub Theme Vimix" width="600">
+</div>
 
 ---
 
@@ -128,6 +136,10 @@ Eu uso o `kitty` como meu terminal com:
 * Tema: `Dracula`
 * Transparência e atalhos personalizados
 
+<div align="center">
+  <img src="assets/kitty.gif" alt="Terminal Kitty com Tema Dracula" width="600">
+</div>
+
 Para configurar:
 
 ```bash
@@ -161,13 +173,6 @@ window_padding_width 5
 ## 📌 To-Do / Futuras Adições
 
 * [ ] Script opcional para instalar e configurar tudo automaticamente
-* [ ] Screenshots e vídeos de demonstração
-
----
-
-## 📸 Screenshots
-
-*(Screenshots: VS Code, GNOME Desktop, Kitty Terminal, etc)*
 
 ---
 
