@@ -33,6 +33,24 @@ CachyOS is a performance-focused Linux distribution based on Arch Linux. It offe
 
 ---
 
+## 🎨 GNOME Extensions for Customization
+
+To customize my GNOME environment, I use **Extension Manager** with the following extensions:
+
+- 🪄 **Compiz alike magic lamp effect**: Adds the famous "magic lamp" effect when minimizing windows, where they smoothly contract toward the dock/taskbar, reminiscent of the classic Compiz effect.
+
+- ✨ **Compiz windows effect**: Brings back the iconic Compiz window effects, including smooth opening/closing animations and elegant transitions between workspaces.
+
+- 🚀 **Dash2Dock Animated**: Transforms the default GNOME dash into an animated and customizable dock, similar to macOS, with hover effects, transparency, and fluid animations.
+
+- 🧊 **Desktop Cube**: Creates the classic 3D cube effect for switching between workspaces, allowing impressive visual navigation between different work areas.
+
+- 🗂️ **Tiling Shell**: Adds automatic window management (tiling) functionality, automatically organizing windows into efficient layouts without overlap.
+
+> 💡 **Tip**: Install Extension Manager via Flatpak or pacman to easily manage these extensions.
+
+---
+
 ## 📥 How to Install CachyOS (Recommended with Ventoy)
 
 1. **Download CachyOS ISO** from [https://cachyos.org/download](https://cachyos.org/download)
@@ -61,6 +79,10 @@ CachyOS is a performance-focused Linux distribution based on Arch Linux. It offe
 In addition to the standard installer, I use a customized Ventoy interface with the [Grub-theme-vimix](https://www.gnome-look.org/p/1009236) theme, making the boot menu more beautiful and modern.
 
 There are several ways to apply this customization, but I followed the tutorial in this video: [YouTube - How to customize Ventoy with Vimix theme](https://www.youtube.com/watch?v=CuonyS3xdwg).
+
+<div align="center">
+  <img src="assets/ventoy-grub-theme-vimix.jpg" alt="Ventoy Grub Theme Vimix" width="600">
+</div>
 
 ---
 

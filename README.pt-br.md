@@ -33,6 +33,24 @@ O CachyOS é uma distribuição Linux focada em desempenho baseada no Arch Linux
 
 ---
 
+## 🎨 Extensões do GNOME para Personalização
+
+Para customizar meu ambiente GNOME, uso o **Extension Manager** com as seguintes extensões:
+
+- 🪄 **Compiz alike magic lamp effect**: Adiciona o famoso efeito "lâmpada mágica" ao minimizar janelas, onde elas se contraem de forma fluida em direção ao dock/taskbar, lembrando o efeito clássico do Compiz.
+
+- ✨ **Compiz windows effect**: Traz de volta os icônicos efeitos de janela do Compiz, incluindo animações suaves de abertura/fechamento e transições elegantes entre workspaces.
+
+- 🚀 **Dash2Dock Animated**: Transforma o dash padrão do GNOME em um dock animado e personalizável, similar ao macOS, com efeitos de hover, transparência e animações fluidas.
+
+- 🧊 **Desktop Cube**: Cria o clássico efeito de cubo 3D para alternar entre workspaces, permitindo uma navegação visual impressionante entre diferentes áreas de trabalho.
+
+- 🗂️ **Tiling Shell**: Adiciona funcionalidades de gerenciamento automático de janelas (tiling), organizando automaticamente as janelas em layouts eficientes sem sobreposição.
+
+> 💡 **Dica**: Instale o Extension Manager via Flatpak ou pacman para gerenciar facilmente essas extensões.
+
+---
+
 ## 📥 Como Instalar o CachyOS (Recomendado com Ventoy)
 
 1. **Baixe o ISO do CachyOS** em [https://cachyos.org/download](https://cachyos.org/download)
