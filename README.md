@@ -172,13 +172,3 @@ window_padding_width 5
 ```
 
 ---
-
-## 📌 To-Do / Future Additions
-
-* [ ] Optional install script to auto-setup all configs
-
----
-
-## 🙌 Contribute
-
-Feel free to fork and adjust for your own Linux workflow. Pull requests are welcome!

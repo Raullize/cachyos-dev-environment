@@ -169,13 +169,3 @@ window_padding_width 5
 ```
 
 ---
-
-## 📌 To-Do / Futuras Adições
-
-* [ ] Script opcional para instalar e configurar tudo automaticamente
-
----
-
-## 🙌 Contribua
-
-Sinta-se à vontade para fazer fork e adaptar para seu próprio workflow Linux. Pull requests são bem-vindos!
