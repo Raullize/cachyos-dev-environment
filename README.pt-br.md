@@ -159,6 +159,10 @@ font_size        16.0
 # Tema
 include dracula.conf
 
+# Background
+background_image ~/Pictures/KittyBackground/kitty.png
+background_image_layout scaled
+
 # Atalhos úteis
 map ctrl+shift+n new_os_window
 map ctrl+shift+enter new_window
